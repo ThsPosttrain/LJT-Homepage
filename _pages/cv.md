@@ -1,64 +1,53 @@
+header:
+  title: "CV"
+  description: "CV of Junteng Liu"
+
+nav: true
+nav_order: 3
+
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
 
-{% include base_path %}
+## Curriculum Vitae
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Ph.D. in Computer Science** (2024-Present)  
+  Hong Kong University of Science and Technology
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- **B.Eng.** (2020-2024)  
+  Shanghai Jiao Tong University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Research Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Research Intern**, MINIMAX (February 2025 - Present)
+
+- **Research Intern**, Tencent WXG (June 2024 - September 2024)  
+  Advisor: Zifei Shan
+
+- **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)  
+  Advisor: Prof. Yu Cheng
+
+### Publications
+
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**. *Junteng Liu* et al. Arxiv, 2025.
+
+- **On the Perception Bottleneck of VLMs for Chart Understanding**. *Junteng Liu* et al. Arxiv, 2025.
+
+- **On the Universal Truthfulness Hyperplane Inside LLMs**. *Junteng Liu* et al. EMNLP, 2024.
+
+- **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**. Shiqi Chen, Miao Xiong, *Junteng Liu* et al. ICML, 2024.
+
+- **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**. Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, *Junteng Liu* et al. NeurIPS, 2023.
+
+- **Composing Parameter-Efficient Modules with Arithmetic Operations**. Jinghan Zhang, Shiqi Chen, *Junteng Liu*, Junxian He. NeurIPS, 2023.
+
+### Awards
+
+- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+### Contact
+
+- Email: jliugi@connect.ust.hk
+- GitHub: [Vicent0205](https://github.com/Vicent0205)
+- Google Scholar: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+- X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
